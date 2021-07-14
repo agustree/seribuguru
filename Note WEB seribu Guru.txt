@@ -33,6 +33,7 @@
   2. USERNAME
   3. PASSWORD
   4. AKSES
+  5. Status
 
 -- MASTER tutor
   1. ID tutor
@@ -44,6 +45,19 @@
   7. Pengalaman tutor
   8. kegiatan tutor
   9. no Rek
+  
+-- Master Siswa
+  1. ID Siswa
+  2. Nama Siswa
+  3. Alamat
+  5. Kelas
+  6. program
+  7. jenjang
+  8. Asal Sekolah
+  9. Telp
+  10. Nama Ortu
+  11. Telp Ortu
+  
   
 
 -- EXPEDISI
