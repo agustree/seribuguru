@@ -69,7 +69,11 @@
   8. detil Mapel
   9. Mode Bimbel
   10. Alamat Bimbel
+  11. TGL join Bimbel
  
+-- Master Absent
+  1.ID ABSENT
+  2.
 
 
 ---- LAYOUT--------------------------------------------------------
