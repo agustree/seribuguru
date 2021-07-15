@@ -1,0 +1,27 @@
+=================TENTOR
+saat penerimaan Tentor : Pertanyaan pada tentor yg di sesuaikan untuk peserta didik
+
+
+=================SISWA
+--> Form Register siswa 
+    - ditampilkan detil data pendaftaran kegiatan belajar
+      -materi saja
+      -latihan soal
+      -materi + latihan
+
+=================KONTEN VIDEO IG
+  --> How to Learn = menampilkan konten yg menarik pembaca dengan cara menyampaikan pesan manfaat produk kita
+      Hari 1 -> Coming Soon motiv puzle(konten bersambung)
+      Hari 2 -> 1 quote motive puzle juga
+      Hari 3 -> bikin 1 template khusus untuk hari besar
+  --> bikin video promosi
+      -isi video => tetap belajar di masa pandemi
+                    ingin tetap belajar, ingin tetap les, tapi takut situasi pandemi, tapi takut orang datang ke rumah
+                    tapi takut melanggar protokol kesehatan. tenang kita ada solusinya tetap aman
+                    dan nyaman belajar di rumah, di temani guru yang berpengal aman di bidangnya
+  --> ofline
+      - isi video => susah menerima pelajaran secara online, les secara ofline bersama seribu guru.. guru datang kerumah,
+        jangan lupa jaga protokol kesehatan yaaa.
+  --> kalian lebih suka belajar sendirian atau bareng bareng nih... di seribu guru kalian bisa les privat
+      ataupun kelompok, yuk langsung daftar.
+
