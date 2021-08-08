@@ -1,0 +1,23 @@
+--tentor
+nama
+alamat 
+jurusan kuliah
+
+--murid
+nama
+kelas
+program
+alamat
+
+
+--wali murid
+nama
+nama anak
+alamat
+
+--bimbel
+waktu
+tempat
+media bimbel
+tentor
+murid
