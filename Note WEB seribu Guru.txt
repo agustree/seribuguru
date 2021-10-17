@@ -45,6 +45,7 @@
   7. Pengalaman tutor
   8. kegiatan tutor
   9. no Rek
+  10. data vaksin
   
 -- Master Siswa
   1. ID Siswa
