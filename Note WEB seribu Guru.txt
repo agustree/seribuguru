@@ -80,7 +80,7 @@
 tambahahan
  1. Mapel klau bisa di tentukan siswa sendiri.
  2. kelompok harus 1 mapel
- 3. 
+ 3. interval jam minimal 1,5jam
 
 
 ---- FLOW ----------------------------------------------------------
